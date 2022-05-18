@@ -60,4 +60,5 @@ The web page is shown below with a Flag Pole Antenna selected.  Antenna labels c
 ## The Finished Project
 
 <br>
+
 ![Completed Project](images/Finished%20Project.jpg)
