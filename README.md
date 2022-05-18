@@ -1,4 +1,4 @@
-# Simple Remote Antenna Selector
+# Antenna Switch Control via Browser
 Remote antenna switch controller using ESP8266 for a 4-port switch.  This is the software logic for a controller for a switch consisting of relays, board and connectors. A hardware kit for the switch itself is sourced from eBay.  The better ones are from the Czech Republic.
 
 Most likely, the switch kit will operate on 12 volts, i.e. it will have 12v relays and require 12v signals to activate the relays.  You will need a driver board to convert the 3v logic of the ESP8266 to drive 12v signals required by the switch.  The easiest way to do this is to use a DC motor driver board commonly used in robots (see components list below).
