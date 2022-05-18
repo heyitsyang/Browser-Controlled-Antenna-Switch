@@ -45,7 +45,6 @@ The web page is shown below with a Flag Pole Antenna selected.  Antenna labels c
 - Qty1 - WeMos D1 Mini ESP8266 board - https://smile.amazon.com/HiLetgo-NodeMcu-Development-ESP8266-Compatiable/dp/B073CQVFLK?ref_=ast_sto_dp
 - Qty1 - 12v to 5v Buck Converter (adjust to 5v output) - https://smile.amazon.com/HiLetgo-LM2596S-ADJ-Module-Regulator-Adjustable/dp/B00LTSC564?ref_=ast_sto_dp
 - Qty 1 - Relay driver board - https://smile.amazon.com/DAOKI-Channel-MOSFET-Module-Arduino/dp/B07YKFR72R/ref=sr_1_6?crid=1G18I7PLMITJU&keywords=mosfet+button&qid=1652822115&s=industrial&sprefix=mosfet+button%2Cindustrial%2C87&sr=1-6
-<br>
 - Qty 1 - 12VDC 3A power supply
 - Connectors needed for 12v power
 - Connectors for interconnection of controller and switch assemblies
