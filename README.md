@@ -68,3 +68,7 @@ Note pull down resistor assembly at upper right.  All resistors are 10K ohm.
 <br>
 
 ![Completed Project](images/Finished%20Project.jpg)
+
+<br>
+
+Picture shows a previous generation controller, but you get the idea.
