@@ -30,7 +30,7 @@
   WebServer server(80);
 #endif
 
-#define VERSION "Ver 1.0 build 2022.05.17"
+#define VERSION "Ver 1.1 build 2022.05.31"
 
 // Specify the SSID and Password of the WiFi
 
