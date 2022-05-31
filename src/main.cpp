@@ -72,6 +72,7 @@ void handle_ant3on();
 void handle_ant3off();
 void handle_ant4on();
 void handle_ant4off();
+void handle_antalloff();
 void handle_NotFound();
 String HTML();
 void sync_IOpins();
@@ -124,6 +125,7 @@ void setup() {
   server.on("/ant3off",handle_ant3off);
   server.on("/ant4on",handle_ant4on);
   server.on("/ant4off",handle_ant4off);
+  server.on("/antalloff", handle_antalloff);
   server.onNotFound(handle_NotFound);
   
   //Starting the Server
@@ -273,6 +275,16 @@ void handle_ant4off()
 {
   Serial.println("ANT4 OFF");
   ant4_status=false;
+  server.send(200, "text/html", HTML());
+}
+
+void handle_antalloff()
+{
+  Serial.println("ALL OFF");
+  ant4_status=false;
+  ant1_status=false;
+  ant2_status=false;
+  ant3_status=false;
   server.send(200, "text/html", HTML());
 }
 
