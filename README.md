@@ -28,7 +28,7 @@ The web page is shown below with a Flag Pole Antenna selected.  Antenna labels c
 
 - Qty1 - Switch enclosure - https://www.amazon.com/gp/product/B07KYDVH4T/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 - Qty 1 set of 5 - SO-239 connectors - https://www.amazon.com/dp/B08JCCLK4C/ref=sspa_dk_detail_4?psc=1&pd_rd_i=B08JCCLK4C&pd_rd_w=xDNhf&pf_rd_p=0c758152-61cd-452f-97a6-17f070f654b8&pd_rd_wg=yPvdV&pf_rd_r=S8AN87KDCN369QPEGA8J&pd_rd_r=c6ed74ab-e185-4db9-b44c-d51286797beb&s=industrial&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyUUZZUktRUVBLUVlWJmVuY3J5cHRlZElkPUEwMjQ3MzAzMkM2SElSNFQ1TFpDTCZlbmNyeXB0ZWRBZElkPUEwMjE3ODcyMzVZM01CSjZTVzdBVyZ3aWRnZXROYW1lPXNwX2RldGFpbCZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
-- Qty 1 - Switch kit shown below - avaialble on eBay
+- Qty 1 - 4:1 switch kit shown - available on eBay. Links to eBay items change too quickly for me to provide one. I can't vouch for every kit sold on eBay, but I've had no problems with the kit matching th picture shown below.  
 <br><br>
 
 ![Switch Kit](images/Switch%20Kit.jpg)
@@ -71,4 +71,4 @@ Note pull down resistor assembly at upper right.  All resistors are 10K ohm.
 
 <br>
 
-Picture shows a previous generation controller, but you get the idea.
+Picture shows my previous generation controller that had a smaller electronics enclosure, but you get the idea.
