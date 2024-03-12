@@ -19,7 +19,7 @@
   #include <WebServer.h>
 #endif
 
-#include <ElegantOTA.h>
+#include <ElegantOTA.h>            // browse to IPADDRESS/update to upload new binary
 
 // private definitions
 #include "private.h"               // <<<<<<<  COMMENT THIS OUT FOR YOUR INSTANCE - this contains stuff for my network, not yours
@@ -30,7 +30,7 @@
   WebServer server(80);
 #endif
 
-#define VERSION "Ver 1.1 build 2022.05.31"
+#define VERSION "Ver 1.1 build 2024.03.12"
 
 // Specify the SSID and Password of the WiFi
 
@@ -46,7 +46,7 @@ const char *password = WIFI_PASSWORD;
 const char *hostname = "antennasw";
 
 // Specify button labels
-String button_label_1 = "End Fed Half Wave (1.2KW)";
+String button_label_1 = "10-40m Parallel Dipole (1.0KW)";
 String button_label_2 = "Flag Pole w/Tuner (120W)";
 String button_label_3 = "- UNUSED -";
 String button_label_4 = "Dummy Load (300W)";
