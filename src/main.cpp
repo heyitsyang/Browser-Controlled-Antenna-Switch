@@ -46,7 +46,7 @@ const char *password = WIFI_PASSWORD;
 const char *hostname = "antennasw";
 
 // Specify button labels
-String button_label_1 = "10-40m Parallel Dipole (1.0KW)";
+String button_label_1 = "10/15/20/40m Parallel Dipole (1.0KW)";
 String button_label_2 = "Flag Pole w/Tuner (120W)";
 String button_label_3 = "- UNUSED -";
 String button_label_4 = "Dummy Load (300W)";
